@@ -1,0 +1,2 @@
+podman start playit
+podman logs -f playit
